@@ -1,9 +1,9 @@
 project-3-quiz
-THE QUIZ OF ALL QUIZZES.
+# THE QUIZ OF ALL QUIZZES.
 
 the main idea of this project was to create a small quiz of 20 question to be done by, our peers in the class so we can test our knowledge of php loops.
 
-##Getting Started
+## Getting Started
 
 CREATE A QUIZ
 
@@ -23,7 +23,7 @@ Make your page pretty with some CSS.
 
 Please go to this link to access the checklist of what's expected in more detail. And please submit the form together with your project.
 
-##Running the tests
+## Running the tests
 
 i used if statements to generate the scores of the project and then i used my forloops to generate the answers and once the score was found the if statement and forloops would check the score and depeneding on where you fall it gives you your score and tell you how bad or good you were.
 
